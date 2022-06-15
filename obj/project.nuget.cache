@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vSVyQDJvDeujw3/85lQAN8JA1M/OpUDg4+J0iVhjSShtRAR9KJ+Xm26eK1sqjAT/E3yPUcPJ2wouosiohUckkQ==",
+  "success": true,
+  "projectFilePath": "/Users/ravisen/Projects/aspnetcore/TodoApi/TodoApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/ravisen/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/ravisen/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ravisen/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/ravisen/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/ravisen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/ravisen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
