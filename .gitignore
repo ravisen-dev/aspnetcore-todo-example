@@ -352,3 +352,7 @@ MigrationBackup/
 #VS Code Folders
 .vscode/
 obj
+obj/project.assets.json
+obj/project.nuget.cache
+obj/TodoApi.csproj.nuget.dgspec.json
+obj/TodoApi.csproj.nuget.g.props
